@@ -1,5 +1,8 @@
-public class SimpleDotComGame {
+class SimpleDotComGame {
 public static void main (String[] args) {
+
+	//SimpleDotComGame s= new SimpleDotComGame();
+
 	int numOfGuesses = 0;
 
 	GameHelper helper = new GameHelper();
